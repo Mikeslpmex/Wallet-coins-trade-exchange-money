@@ -1,0 +1,6 @@
+{
+  "name": "PayShield & Crypto Gateway",
+  "description": "Pasarela de pagos con módulo antifraude, verificación real de criptomonedas, conciliación con Mercado Pago y módulo tesorero.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
